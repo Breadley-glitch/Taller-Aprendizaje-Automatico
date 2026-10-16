@@ -1,5 +1,7 @@
 # Taller-Aprendizaje-Automatico
 Solución Taller de Aprendizaje Automático 
+
+
 Autores: David López López y Breadley Josshuen Marín Velasco
 
 Este repositorio contiene la solución completa, reproducible e integrada del Taller 1 de Aprendizaje Automático. El proyecto abarca desde la fundamentación matemática y la derivación de estimadores hasta la implementación desde cero en `NumPy`, la verificación numérica, la simulación de propiedades teóricas y la aplicación en datasets de regresión y clasificación temporal con matrices de costos asimétricas.
